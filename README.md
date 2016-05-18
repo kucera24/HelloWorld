@@ -1,3 +1,6 @@
 # HelloWorld
 Just another repository
-OK
+
+Hello everybody, 
+
+My name is Petr, a live in Slovakia. I am very happy when I work with HigHub :)
